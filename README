@@ -1,0 +1,7 @@
+M. Bonamente 2023
+
+This code implements the convolution (Eq. 27 in Bonamente 2023) of
+a chi^2(nu) distribution with a zero-mean Gaussian N(0,sigma^2) representing the
+overdispersed chi^2 distribution. 
+The code also reproduces Table 1 of the paper, and it can be extended to
+calculate any critical value of the distribution.
